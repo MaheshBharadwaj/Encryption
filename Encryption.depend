@@ -1,0 +1,95 @@
+# depslib dependency file v1.0
+1514545867 source:c:\users\mahes\desktop\encryption\main.cpp
+	<bits\stdc++.h>
+	"resources.hpp"
+	<tchar.h>
+	<windows.h>
+	"core.hpp"
+
+1514534985 c:\users\mahes\desktop\encryption\resource.rc
+	"resource.hpp"
+
+1514535023 c:\users\mahes\desktop\encryption\resource.hpp
+
+1514543118 c:\users\mahes\desktop\encryption\resources.h
+
+1514535902 source:c:\users\mahes\desktop\encryption\resource.rc
+	"resources.h"
+
+1514544327 c:\users\mahes\desktop\encryption\resources.hpp
+
+1514545337 c:\users\mahes\desktop\encryption\core.hpp
+
+1514535902 source:c:\users\mahes\desktop\projects\encryption\resource.rc
+	"resources.h"
+
+1514543118 c:\users\mahes\desktop\projects\encryption\resources.h
+
+1514561642 source:c:\users\mahes\desktop\projects\encryption\main.cpp
+	<bits\stdc++.h>
+	"resources.hpp"
+	<tchar.h>
+	<windows.h>
+	"core.hpp"
+
+1514544327 c:\users\mahes\desktop\projects\encryption\resources.hpp
+
+1514562743 c:\users\mahes\desktop\projects\encryption\core.hpp
+
+1516004100 source:c:\users\mahes\desktop\system software\resource.rc
+	"resources.hpp"
+
+1516004680 source:c:\users\mahes\desktop\system software\main.cpp
+	<bits\stdc++.h>
+	"resources.hpp"
+	<tchar.h>
+	<windows.h>
+	"core.hpp"
+	"UI.hpp"
+
+1514544327 c:\users\mahes\desktop\system software\resources.hpp
+
+1516020278 c:\users\mahes\desktop\system software\core.hpp
+
+1516004029 c:\users\mahes\desktop\system software\ui.hpp
+
+1517323544 source:c:\users\mahes\desktop\projects\system software\main.cpp
+	<bits\stdc++.h>
+	<thread>
+	"resources.hpp"
+	<tchar.h>
+	<windows.h>
+	"core.hpp"
+	"UI.hpp"
+
+1514544327 c:\users\mahes\desktop\projects\system software\resources.hpp
+
+1517324169 c:\users\mahes\desktop\projects\system software\core.hpp
+
+1516004029 c:\users\mahes\desktop\projects\system software\ui.hpp
+
+1516004100 source:c:\users\mahes\desktop\projects\system software\resource.rc
+	"resources.hpp"
+
+1516004100 source:c:\users\mahes\desktop\projects\system software edited\resource.rc
+	"resources.hpp"
+
+1514544327 c:\users\mahes\desktop\projects\system software edited\resources.hpp
+
+1517325856 source:c:\users\mahesh\documents\projects\system software edited\main.cpp
+	<bits\stdc++.h>
+	"resources.hpp"
+	<tchar.h>
+	<windows.h>
+	"core.hpp"
+	"UI.hpp"
+
+1514544327 c:\users\mahesh\documents\projects\system software edited\resources.hpp
+
+1552982712 c:\users\mahesh\documents\projects\system software edited\core.hpp
+
+1516004029 c:\users\mahesh\documents\projects\system software edited\ui.hpp
+
+1516004100 source:c:\users\mahesh\documents\projects\system software edited\resource.rc
+	"resources.hpp"
+
