@@ -1,4 +1,4 @@
-# Encryption
+# Encryption-Decryption Emulator
   Program that emulates end to end encryption by using dynamic running key cipher
 
    1. Note:
